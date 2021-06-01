@@ -6,6 +6,6 @@
 
 :united_nations: :cn: :macau: :vietnam: :jp: :eu: :us:
 
-:earth_asia: :japan: :city_sunset: :bullettrain_side: :metro: 
+:earth_asia: :japan: :bullettrain_side: :city_sunset: :metro: 
 
 :euro: :dollar: :yen:
