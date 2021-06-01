@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ... 我想做 ...
 - 📫 How to reach me ... 联系到我 ...
 
-:euro: :dollar: :yen:
+:united_nations: :cn: :macau: :vietnam: :jp: :eu: :us:
 
-:earth_asia: :japan: :metro:
+:earth_asia: :japan: :city_sunset: :bullettrain_side: :metro: 
+
+:euro: :dollar: :yen:
